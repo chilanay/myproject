@@ -1,0 +1,73 @@
+.logo{
+	width: 4%;
+	height: auto;
+	margin-top: -100px;
+	margin-bottom: 40px;
+	margin-left: 880px;
+}
+p{
+	font-family: Alegreya SC;
+	color: #142F43;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 130px;
+}
+#srn{
+	font-family: Alegreya SC;
+	color: #142F43;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;
+}
+footer{
+	margin-top: 100px;
+	background-color: gray;
+	opacity: .6;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+	padding: 3px;
+	padding-bottom: 40px;
+}
+#fh, #fa, #fp, #fw{
+	text-decoration: none;
+	color: #F2DDC1;
+}
+h1{
+	text-align:center;
+	font-family: Georgia;
+	font-size: 37px;
+	color: #A45D5D;
+	background-color: #FAF3F3;
+	margin-top: -9px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+}
+nav a{
+	float: left;
+	width: 260px;
+	height: 40px;
+	background-color: #A7BBC7;
+	opacity: .8;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+	padding: 3px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	display: block;
+	padding-bottom: 6px;
+	padding-top: 6px;
+	padding-left: 60px;
+	padding-right: 55px;
+	margin-top: -22px;
+}
+nav a:hover {
+ background-color: #838383;
+}
+body{
+	background-color: #FAF3F3;
+}
